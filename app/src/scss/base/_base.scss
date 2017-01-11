@@ -39,7 +39,7 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: absolute;
-  top: 30%;
+  top: 221px;
   left: 50%;
   margin-left: -2.5px;
   margin-top: -8.33333333px;
@@ -117,16 +117,17 @@ body {
 }
 
 .text {
-  color: #FCFCFC;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-style:italic;
   text-align: center;
   h1 {
+    color: #00ffe9;
     font-size: 2.4em;
     font-weight: normal;
   }
   p {
     font-size: 2em;
+    color: #00f1ff;
   }
 }
